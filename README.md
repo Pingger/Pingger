@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there  
+
+No longer on GitHub, because of extremely questionable buisness decisions by GitHub/Microsoft.
+
+I suggest that you, the person reading this, also consider switching to a better platform or, even better, hosting your own!
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pingger&count_private=true&show_icons=true&include_all_commits=true">
 
